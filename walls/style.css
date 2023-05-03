@@ -1,0 +1,9 @@
+body
+{
+    margin: 0;
+}
+
+#game_canvas
+{
+    background-color: rgb(0, 185, 65);
+}
